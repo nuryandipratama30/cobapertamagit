@@ -1,0 +1,5 @@
+D:\C#\percobaan\dataaccess\bin\Debug\dataaccess.dll
+D:\C#\percobaan\dataaccess\bin\Debug\dataaccess.pdb
+D:\C#\percobaan\dataaccess\obj\Debug\dataaccess.csprojResolveAssemblyReference.cache
+D:\C#\percobaan\dataaccess\obj\Debug\dataaccess.dll
+D:\C#\percobaan\dataaccess\obj\Debug\dataaccess.pdb

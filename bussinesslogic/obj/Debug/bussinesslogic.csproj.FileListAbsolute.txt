@@ -1,0 +1,7 @@
+D:\C#\percobaan\bussinesslogic\bin\Debug\bussinesslogic.dll
+D:\C#\percobaan\bussinesslogic\bin\Debug\bussinesslogic.pdb
+D:\C#\percobaan\bussinesslogic\bin\Debug\dataaccess.dll
+D:\C#\percobaan\bussinesslogic\bin\Debug\dataaccess.pdb
+D:\C#\percobaan\bussinesslogic\obj\Debug\bussinesslogic.csprojResolveAssemblyReference.cache
+D:\C#\percobaan\bussinesslogic\obj\Debug\bussinesslogic.dll
+D:\C#\percobaan\bussinesslogic\obj\Debug\bussinesslogic.pdb
